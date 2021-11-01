@@ -59,29 +59,34 @@ from ErzaScarlet.modules.helper_funcs.readable_time import get_readable_time
 
 
 PM_START_TEXT = """
-Hey there, {}!
-Hey I Am {}
-
-I can manage your group easily with many feautres and games. **Just add me in your group to use me.
-
-*Status*: [Working Fine](https://t.me/ErzaScarlet_Support)
-*Life Force*: `100%`
-
-Too see commands send /help .
+🏷️ Hᴇʏ {}, ɪ ᴀᴍ [Eᴍɪxɪɴᴀ](https://telegra.ph/file/a2640c723c322d7c93342.jpg) 
+ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴘʀᴇᴍɪᴜᴍ sᴜᴘᴇʀғᴀsᴛ ᴀɴᴅ ɴᴇxᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴘᴏᴡᴇʀꜰᴜʟʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ : [ᴄʀᴇᴀᴛᴏʀ ᴘᴀᴠᴀɴ](https://t.me/pavanmagar)..!
 """
 
 
 HELP_STRINGS = """
-*Main Commands :* [ʕ·ᴥ·ʔ](https://telegra.ph/file/f14c63556a46189167eb7.jpg)
-✪ /start: Starts me! You've probably already used this.
-✪ /help: Click this, I'll let you know about myself!
-✪ /settings: 
-   ◔ in PM: will send you your settings for all supported modules.
-   ◔ in a Group: will redirect you to pm, with all that chat's settings.
+🏷️ Hᴇʏ, ɪ ᴀᴍ Eᴍɪxɪɴᴀ, ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ.
+                 
+❍ ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ.
+                 
+❍ ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ..
+                 
+❍ ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ.
+                 
+❍ ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ. 
+                 
+❍ ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ.
+                 
+❍  ɪ ᴄʜᴇᴄᴋ ꜰᴏʀ ᴀᴅᴍɪɴꜱ' ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ ʙᴇꜰᴏʀᴇ ᴇxᴇᴄᴜᴛɪɴɢ ᴀɴʏ ᴄᴏᴍᴍᴀɴᴅ ᴀɴᴅ ᴍᴏʀᴇ ꜱᴛᴜꜰꜰꜱ
+                 
+ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴄʀᴇᴀᴛᴏʀ : [𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗣𝗮𝘃𝗮𝗻](https://t.me/pavanmagar)
+
+ɪꜱ ɪꜱ ᴛʜᴇ ʜᴇʟᴘ ꜱᴇᴄᴛɪᴏɴ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ʟᴇᴀʀɴ ᴛᴏ ᴜꜱᴇ ᴍᴇ.                 
 """
 
-ErzaScarlet_IMG = "https://indianime.com/wp-content/uploads/2021/08/photo_2021-08-21_12-17-22.jpg)"
-ErzaScarlet_YAWN = "https://telegra.ph/file/baad9f6111310638c438c.mp4" #"https://telegra.ph/file/df5c1103ab9d539ab760d.gif"
+ErzaScarlet_IMG = "https://telegra.ph/file/ae9ba4929e18c082fa678.mp4)"
+ErzaScarlet_YAWN = "https://telegra.ph/file/ae9ba4929e18c082fa678.mp4" #"https://telegra.ph/file/df5c1103ab9d539ab760d.gif"
 YAWN_CPT = "I am Awake ! ~ 💤"
 
 IMPORTED = {}
